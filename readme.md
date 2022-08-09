@@ -1,0 +1,1 @@
+# This is a CDN project to supply json for the frontend
